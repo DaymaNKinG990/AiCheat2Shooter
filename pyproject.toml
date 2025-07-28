@@ -6,7 +6,10 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "create-mcp-server>=1.0.5",
+    "flet>=0.28.3",
     "mcp>=1.12.2",
+    "numpy>=2.3.2",
+    "plotly>=6.2.0",
     "py-trello>=0.20.1",
     "python-dotenv>=1.1.1",
 ]
