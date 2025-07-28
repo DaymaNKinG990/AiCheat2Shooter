@@ -195,3 +195,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# .lock files
+*.lock

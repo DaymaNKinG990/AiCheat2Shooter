@@ -12,5 +12,5 @@ dependencies = [
 
 [tool.uv.workspace]
 members = [
-    "task-orchectrator-mcp",
+    "aicheat2shooter",
 ]
